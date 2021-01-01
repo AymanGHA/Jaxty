@@ -1,2 +1,21 @@
 # Jaxty
-GameEngine2D game engine using webassambly for a good performance .
+GameEngine2D game engine using webassambly and WebGl for the best performance .
+WHY USE THIS ENGINE :
+  GPU ACELERETION 
+  WEBASSAMBLY ALGORITHMS
+  SIMPLE AND SEXY ;)
+  
+-- VERSION 0.1 --
+
+*  ECS // COMPONENT ENTITY SYSTEM 
+* WEBGL FOR GRAPHICS 
+* MAIN LOOP METHOD 
+* INPUT (EXPECTION : GAMEPAD)
+* AUDIO 
+* MATHS METHODS  
+* UTIL METHODS 
+* Sprite and SpriteSheet ( Class )
+* ALGORITHMS : PAHTFINDING - GRID 
+
+
+LUNCH : 1/01/2022 DAY/MONTH/YEAR 
