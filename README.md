@@ -1,6 +1,6 @@
 # Jaxty
 GameEngine2D game engine using webassambly and WebGl for the best performance .
-WHY USE THIS ENGINE :
+WHY T0 USE THIS ENGINE :
   GPU ACELERETION ,
   WEBASSAMBLY ALGORITHMS,
   SIMPLE AND SEXY ;)
