@@ -1,10 +1,6 @@
 # Jaxty
-GameEngine2D game engine using webassambly and WebGl for the best performance .
-WHY T0 USE THIS ENGINE :
-  GPU ACELERETION ,
-  WEBASSAMBLY ALGORITHMS,
-  SIMPLE AND SEXY ;)
-  
+GameEngine2D
+Similar to Unity scripting to make it easy to learn . 
 -- VERSION 0.1 --
 
 *  ECS // COMPONENT ENTITY SYSTEM 
@@ -18,4 +14,4 @@ WHY T0 USE THIS ENGINE :
 * ALGORITHMS : PAHTFINDING - GRID 
 
 
-LUNCH : 1/02/2022 DAY/MONTH/YEAR 
+LUNCH : 1/01/2023
